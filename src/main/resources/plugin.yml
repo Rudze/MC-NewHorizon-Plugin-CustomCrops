@@ -1,0 +1,4 @@
+name: CustomCrops
+version: '1.0'
+main: fr.rudy.customCrops.CustomCrops
+api-version: '1.21'
