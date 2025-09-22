@@ -1,4 +1,4 @@
-name: CustomCrops
-version: '1.0'
+name: xCustomCrops
+version: '1.1'
 main: fr.rudy.customCrops.CustomCrops
 api-version: '1.21'
